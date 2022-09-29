@@ -1,2 +1,2 @@
 # API_blog
-Just a simple api 
+Just a simple api using pythons fastapi package
